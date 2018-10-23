@@ -1,0 +1,7 @@
+C:\Users\s27-r1\source\repos\Students_Tests\Students_Tests\bin\Debug\Students_Tests.exe.config
+C:\Users\s27-r1\source\repos\Students_Tests\Students_Tests\bin\Debug\Students_Tests.exe
+C:\Users\s27-r1\source\repos\Students_Tests\Students_Tests\bin\Debug\Students_Tests.pdb
+C:\Users\s27-r1\source\repos\Students_Tests\Students_Tests\obj\Debug\Students_Tests.csprojResolveAssemblyReference.cache
+C:\Users\s27-r1\source\repos\Students_Tests\Students_Tests\obj\Debug\Students_Tests.csproj.CoreCompileInputs.cache
+C:\Users\s27-r1\source\repos\Students_Tests\Students_Tests\obj\Debug\Students_Tests.exe
+C:\Users\s27-r1\source\repos\Students_Tests\Students_Tests\obj\Debug\Students_Tests.pdb

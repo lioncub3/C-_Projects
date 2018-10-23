@@ -1,0 +1,16 @@
+C:\Users\s27-r1\Desktop\Calculate\CalculateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\s27-r1\Desktop\Calculate\CalculateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\s27-r1\Desktop\Calculate\CalculateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\s27-r1\Desktop\Calculate\CalculateTests\bin\Debug\CalculateTests.dll
+C:\Users\s27-r1\Desktop\Calculate\CalculateTests\bin\Debug\CalculateTests.pdb
+C:\Users\s27-r1\Desktop\Calculate\CalculateTests\bin\Debug\Calculate.exe
+C:\Users\s27-r1\Desktop\Calculate\CalculateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\s27-r1\Desktop\Calculate\CalculateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\s27-r1\Desktop\Calculate\CalculateTests\bin\Debug\Calculate.pdb
+C:\Users\s27-r1\Desktop\Calculate\CalculateTests\bin\Debug\Calculate.exe.config
+C:\Users\s27-r1\Desktop\Calculate\CalculateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\s27-r1\Desktop\Calculate\CalculateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\s27-r1\Desktop\Calculate\CalculateTests\obj\Debug\CalculateTests.csprojResolveAssemblyReference.cache
+C:\Users\s27-r1\Desktop\Calculate\CalculateTests\obj\Debug\CalculateTests.csproj.CoreCompileInputs.cache
+C:\Users\s27-r1\Desktop\Calculate\CalculateTests\obj\Debug\CalculateTests.dll
+C:\Users\s27-r1\Desktop\Calculate\CalculateTests\obj\Debug\CalculateTests.pdb
