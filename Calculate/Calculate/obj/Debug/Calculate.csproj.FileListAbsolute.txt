@@ -5,3 +5,12 @@ C:\Users\s27-r1\Desktop\Calculate\Calculate\obj\Debug\Calculate.csprojResolveAss
 C:\Users\s27-r1\Desktop\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
 C:\Users\s27-r1\Desktop\Calculate\Calculate\obj\Debug\Calculate.exe
 C:\Users\s27-r1\Desktop\Calculate\Calculate\obj\Debug\Calculate.pdb
+C:\Users\s27-r1\source\repos\C-_Projects\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\s27-r1\source\repos\C-_Projects\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Users\s27-r1\source\repos\C-_Projects\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\s27-r1\source\repos\C-_Projects\Calculate\Calculate\bin\Debug\WebDriver.dll
+C:\Users\s27-r1\source\repos\C-_Projects\Calculate\Calculate\bin\Debug\WebDriver.xml
+C:\Users\s27-r1\source\repos\C-_Projects\Calculate\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+C:\Users\s27-r1\source\repos\C-_Projects\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\s27-r1\source\repos\C-_Projects\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\s27-r1\source\repos\C-_Projects\Calculate\Calculate\obj\Debug\Calculate.pdb

@@ -4,3 +4,9 @@ C:\Users\lioncub3\source\repos\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.
 C:\Users\lioncub3\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
 C:\Users\lioncub3\source\repos\Bank\Bank\obj\Debug\Bank.dll
 C:\Users\lioncub3\source\repos\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\s27-r1\source\repos\C-_Projects\Bank\Bank\bin\Debug\Bank.dll
+C:\Users\s27-r1\source\repos\C-_Projects\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\s27-r1\source\repos\C-_Projects\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\s27-r1\source\repos\C-_Projects\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\s27-r1\source\repos\C-_Projects\Bank\Bank\obj\Debug\Bank.dll
+C:\Users\s27-r1\source\repos\C-_Projects\Bank\Bank\obj\Debug\Bank.pdb

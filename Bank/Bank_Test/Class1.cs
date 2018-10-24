@@ -13,9 +13,7 @@ namespace Bank_Test
     {
         private Account src = null;
         private Account dst = null;
-        [SetUp]
-        void Init()
-
+        public TestAccount()
         {
             src = new Account();
             src.Deposit(100.00);
@@ -32,12 +30,12 @@ namespace Bank_Test
         }
 
         [Fact]
-        [ExpectedException(typeof(OverdraftException))]
         public void TestOverdraft()
         {
-            src.Transfer(dst, 95.00);
-            Assert.Equal(5.00, src.Balance);
-            Assert.Equal(245.00, dst.Balance);
+            Assert.Throws<OverdraftException>(() => src.Transfer(dst, 95.00));
+            //src.Transfer(dst, 95.00);
+            //Assert.Equal(5.00, src.Balance);
+            //Assert.Equal(245.00, dst.Balance);
         }
 
         [Fact]
@@ -55,8 +53,7 @@ namespace Bank_Test
             Assert.Equal(150.00, dst.Balance);
         }
 
-        [Fact]
-        [Ignore("Перевірка на атомарність")]
+        [Fact(Skip = "Перевірка на атомарність")]
         public void TestAtom()
         {
             
