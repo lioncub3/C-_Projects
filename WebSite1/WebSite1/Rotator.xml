@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements xmlns="http://schemas.microsoft.com/AspNet/AdRotator-Schedule-File">
+  <Ad>
+    <ImageUrl>https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg</ImageUrl>
+    <NavigateUrl>http://google.com</NavigateUrl>
+    <AlternateText>Ad for Contoso, Ltd. Web site</AlternateText>
+    <Impressions>100</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>https://i2.wp.com/beebom.com/wp-content/uploads/2016/01/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg</ImageUrl>
+    <NavigateUrl>http://facebook.com</NavigateUrl>
+    <AlternateText>Ad for ASP.NET Web site</AlternateText>
+    <Impressions>50</Impressions>
+  </Ad>
+</Advertisements>
